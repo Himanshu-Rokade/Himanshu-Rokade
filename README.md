@@ -12,7 +12,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.ros.org/imgs/logo-white.png" alt="ros" width="80" height="40"/> 
+    <img src="https://www.ros.org/imgs/logo-white.png" alt="ros" width="150" height="40"/> 
   </a>  
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
     <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="cplusplus" width="40" height="40"/> 
