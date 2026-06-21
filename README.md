@@ -26,5 +26,5 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu-rokade&show_icons=true&locale=en&layout=compact" alt="himanshu-rokade" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-rokade&layout=donut&hide=jupyter%20notebook)](https://github.com/antobrandi/github-readme-stats" alt="himanshu-rokade" />
 </p>
